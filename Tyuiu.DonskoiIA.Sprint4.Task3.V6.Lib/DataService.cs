@@ -12,11 +12,11 @@ namespace Tyuiu.DonskoiIA.Sprint4.Task3.V6.Lib
     {
         public int Calculate(int[,] array)
         {
-            int m = int.MaxValue;
+            int m = int.MinValue;
 
             for (int i = 0; i < 5; i++)
             {
-                m = Math.Min(m, array[1, i]);
+                m = Math.Max(m, array[1, i]);
             }
             return m;
         }
