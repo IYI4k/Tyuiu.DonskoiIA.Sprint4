@@ -16,7 +16,7 @@ namespace Tyuiu.DonskoiIA.Sprint4.Task5.V15
             Console.Title = "Спринт #4 | Выполнил: Донской И. А. | АСОиУб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Двумерные массивы. (ввод с клавиатуры)                            *");
+            Console.WriteLine("* Тема: Двумерные массивы. (генератор случайных чисел)                    *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #15                                                             *");
             Console.WriteLine("* Выполнил: Донской Иван Андреевич | АСОиУб-24-1                          *");
